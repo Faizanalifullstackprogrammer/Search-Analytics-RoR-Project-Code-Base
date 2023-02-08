@@ -23,13 +23,17 @@ Things you may want to cover:
 
 * ...
 
-Author: 👤 Mian Faizan Ali Full Stack Programmer
+## Author
 
-GitHub: @Faizanalifullstackprogrammer
-Twitter: @mianfaizanali
-LinkedIn: Mianfaizanali
+👤 **Mian Faizan Ali Full Stack Programmer**
 
-🤝 Contributing: 
+- GitHub: [@Faizanalifullstackprogrammer](https://github.com/Faizanalifullstackprogrammer)
+- Twitter: [@mianfaizanali](https://twitter.com/mianfaizanali)
+- LinkedIn: [Mianfaizanali](https://pk.linkedin.com/in/mianfaizanali)
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
 Feel free to connect anytime
