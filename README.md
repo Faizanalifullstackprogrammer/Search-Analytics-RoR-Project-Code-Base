@@ -22,3 +22,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Author: 👤 Mian Faizan Ali Full Stack Programmer
+
+GitHub: @Faizanalifullstackprogrammer
+Twitter: @mianfaizanali
+LinkedIn: Mianfaizanali
+
+🤝 Contributing: 
+Contributions, issues, and feature requests are welcome!
+
+Feel free to connect anytime
